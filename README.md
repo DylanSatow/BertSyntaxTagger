@@ -1,6 +1,7 @@
 # BERT-based Semantic Role Labeling
 
-This project implements a BERT-based Semantic Role Labeling (SRL) system that identifies and labels semantic arguments associated with predicates in text. The system treats SRL as a sequence labeling task using BIO tagging scheme.
+This project implements a BERT-based Semantic Role Labeling (SRL) system that identifies and labels semantic arguments associated with predicates in text. The system treats SRL as a sequence labeling task using BIO tagging scheme. This project is really just practice for me to convert jupyter notebook code to full pytorch 
+pipelines. 
 
 ## Installation
 
