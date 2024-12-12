@@ -6,7 +6,7 @@ This project implements a BERT-based Semantic Role Labeling (SRL) system that id
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/DylanSatow/BertSyntaxTagger.git
 cd srl_project
 ```
 
